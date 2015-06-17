@@ -1,3 +1,4 @@
+# Reverse a string and test
 def test_reverse_string():
     assert(['Sophia', 'is', 'name', 'My'] == reverse_string())
 
